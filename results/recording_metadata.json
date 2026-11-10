@@ -1,0 +1,23 @@
+{
+  "source_filename": "3-142593-A-38.wav",
+  "source_sha256": "8eb0915dab65e09fd489c3ccac93e620892cb795abe4b16e7a103c5bbc92446b",
+  "original_sampling_rate": "44100",
+  "original_channels": "1",
+  "analysis_sampling_rate_hz": 16000,
+  "duration_s": 5.0,
+  "chosen_interval_s": [
+    2.1,
+    2.5
+  ],
+  "fft_peak_frequency_hz": 3022.5,
+  "chosen_frequency_region_hz": [
+    2822.5,
+    3222.5
+  ],
+  "rms_envelope_attack_count": 22,
+  "median_rms_attack_interval_s": 0.23,
+  "interval_selection": "max RMS 0.40 s",
+  "frequency_selection": "peak ±200 Hz",
+  "window_function": "Hann",
+  "hop_samples": 160
+}
